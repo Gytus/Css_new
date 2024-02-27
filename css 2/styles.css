@@ -1,0 +1,27 @@
+*{
+    margin-bottom: 10px;
+    
+
+}
+body{
+    background-color: rgb(237, 237, 237);
+    width: 400px;
+}
+
+input{
+    border-radius: 5px;
+}
+spacer{
+    border-color: black;
+}
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+  }
+form, h2{
+    background-color: white;
+}
+#submit{
+    background-color: grey;
+}
